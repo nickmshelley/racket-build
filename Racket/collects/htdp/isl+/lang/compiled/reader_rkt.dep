@@ -1,0 +1,1 @@
+("5.3.2" ("02fbde431d2280334454f85aee028b4c3517bb60" . "846dfe4bf2bab179495213a65eeac5f04d2040ce") (collects #"htdp" #"bsl" #"reader.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("77c19084700803293144b8312061936c2624d3e6" . "75acf405839f0639b7fa80af6a9f43befc2e3f7d") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"compiler" #"zo-parse.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

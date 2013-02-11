@@ -1,0 +1,1 @@
+("5.3.2" ("d750b0b3f1e49bed80128547da6470a299984014" . "f55dc136abe19283fa5554d8fdb290565c5c9f03") (collects #"racket" #"base.rkt") (collects #"mzlib" #"etc.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"gui.rkt") (collects #"htdp" #"error.rkt") (collects #"racket" #"function.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

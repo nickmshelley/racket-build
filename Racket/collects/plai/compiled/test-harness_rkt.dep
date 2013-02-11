@@ -1,0 +1,1 @@
+("5.3.2" ("9f9abef94cad8be439df69753b425821b0f96898" . "3a83eea984b43c22c32b8741f914d55c64b31472") (collects #"srfi" #"13.rkt") (collects #"plai" #"private" #"command-line.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("443ac51b77077b22078c24cee5a2aff072225cb0" . "db40720d6d96cc652ecb094027ab9cd35ec231c2") (collects #"racket" #"base.rkt") (collects #"htdp" #"lkup-gui.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

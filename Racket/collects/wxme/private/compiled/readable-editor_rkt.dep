@@ -1,0 +1,1 @@
+("5.3.2" ("6068643307c70e78886d326585f66b67109d7978" . "673af244bfb3bc3d5bf65d963be782da040de987") (collects #"mzlib" #"struct.rkt") (collects #"wxme" #"wxme.rkt") (collects #"mzlib" #"class.rkt") (collects #"wxme" #"editor.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

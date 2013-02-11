@@ -1,0 +1,1 @@
+("5.3.2" ("71d8e8962a047403a8b47df45e926eea9388b3d3" . "cf7a35c38ed966167962e9b464ed7ffcbb6af946") (collects #"scheme" #"mzscheme.rkt") (collects #"racket" #"struct-info.rkt") (collects #"mzscheme" #"main.rkt"))

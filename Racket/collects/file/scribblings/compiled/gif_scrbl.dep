@@ -1,0 +1,1 @@
+("5.3.2" ("b3aa2ecbe46a87e25898ed144c1a2cb9cec112c3" . "8498db8b40c8076ad3e5884e8365678993b2d152") (collects #"scribble" #"extract.rkt") (collects #"file" #"gif.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"file" #"gif.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

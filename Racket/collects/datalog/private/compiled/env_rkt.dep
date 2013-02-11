@@ -1,0 +1,1 @@
+("5.3.2" ("75465f75c3b866d4734d171eb2137f7fc2b2590f" . "5a68a3daa60a01303de59d940ea87be1cafdf2ae") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"datalog" #"ast.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

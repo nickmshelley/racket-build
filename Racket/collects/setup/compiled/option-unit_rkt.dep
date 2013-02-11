@@ -1,0 +1,1 @@
+("5.3.2" ("54eb17dab77885af726532f860fa9767d0931a28" . "25aac4fe10ada39692b735e92fcbccf040a90caa") (collects #"racket" #"future.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"base.rkt") (collects #"setup" #"option-sig.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

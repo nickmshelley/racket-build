@@ -1,0 +1,1 @@
+("5.3.2" ("b5f8607eda178cd8df9b6195c01d9ea8793bfd30" . "4654eb9e6e26ba7892277e486bed0797cad4aff6") (collects #"lang" #"prim.rkt") (collects #"htdp" #"hangman.rkt") (collects #"htdp" #"big-draw.rkt") (collects #"scheme" #"main.rkt") (collects #"lang" #"posn.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

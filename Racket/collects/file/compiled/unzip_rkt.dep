@@ -1,0 +1,1 @@
+("5.3.2" ("809de35839197de439edc53541d0e833dc245778" . "e1d396aa15f9e5c0e8e1899464f0aed77c0aaab3") (collects #"racket" #"base.rkt") (collects #"file" #"private" #"strip-prefix.rkt") (collects #"file" #"gunzip.rkt") (collects #"racket" #"file.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

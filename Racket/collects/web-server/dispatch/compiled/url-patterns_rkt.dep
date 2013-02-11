@@ -1,0 +1,1 @@
+("5.3.2" ("bf8c230990f4b4c046956e3869534e3c68cb4d3b" . "9b1eaa599d97009322a061d1ad4a10e5464aa78f") (collects #"racket" #"base.rkt") (collects #"web-server" #"dispatch" #"bidi-match.rkt") (collects #"racket" #"match.rkt") (collects #"web-server" #"dispatch" #"coercion.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

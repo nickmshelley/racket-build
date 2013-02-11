@@ -1,0 +1,1 @@
+("5.3.2" ("c7445708adeae4919fdf6399c6743172f103502d" . "2d8752dec706f5311e87d517ca35619296ef9b9c") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"class.rkt") (collects #"frtime" #"core" #"frp.rkt") (collects #"frtime" #"lang-core.rkt") (collects #"mzscheme" #"main.rkt") (collects #"frtime" #"lang-ext.rkt") (collects #"racket" #"main.rkt"))

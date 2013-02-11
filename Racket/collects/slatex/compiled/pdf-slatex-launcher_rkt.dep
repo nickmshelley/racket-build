@@ -1,0 +1,1 @@
+("5.3.2" ("20fe3bca299735360583c199180601f1948b78d9" . "5c8b8cf01eb5219a2698c8581e7e2a9fe016a6ab") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"slatex" #"slatex-wrapper.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("754e96e22975da1eae06d475dc3bcc37bf313a5c" . "94f44265cb0a13eb1330f7287a8c0a977b7deb19") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"sequence.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"flonum.rkt") (collects #"racket" #"math.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

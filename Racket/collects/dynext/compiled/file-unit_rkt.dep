@@ -1,0 +1,1 @@
+("5.3.2" ("95059a97614da69a7735faf4b65857707f1e5b7c" . "660843d940ffab4cc24700d68d0d14d319279511") (collects #"dynext" #"file-sig.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("251c6832efdc4cfc3d8ba4f53830d25627b33b72" . "e42fd81200ed7f0cfe4efe1dad36f2b2db0b4597") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"future-visualizer" #"private" #"visualizer-data.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

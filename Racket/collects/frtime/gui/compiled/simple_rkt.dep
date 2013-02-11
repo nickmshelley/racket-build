@@ -1,0 +1,1 @@
+("5.3.2" ("5048a84a602d61ec7c7a33a77f5617fdd88f63f9" . "5b2b9483373fb910c12ac27ac708d7b503ea7071") (collects #"mred" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"frtime" #"gui" #"fred.rkt") (collects #"racket" #"class.rkt") (collects #"frtime" #"main.rkt"))

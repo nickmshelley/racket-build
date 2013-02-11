@@ -1,0 +1,1 @@
+("5.3.2" ("96032da9fab42dc3011a72dadf1d841022b3bc0b" . "473eebce0e0729e9e7deed9e2102ab32892cdcb5") (collects #"framework" #"main.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"mrlib" #"switchable-button.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

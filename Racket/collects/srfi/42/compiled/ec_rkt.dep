@@ -1,0 +1,1 @@
+("5.3.2" ("30513d9f89c32978a5ab18b0baaed1b5abf7d067" . "2ba09bd86afe2e24bd41f7b6b3a189cf6a90c301") (collects #"srfi" #"42" #"ec-core.scm") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"42" #"extra-generators.scm"))

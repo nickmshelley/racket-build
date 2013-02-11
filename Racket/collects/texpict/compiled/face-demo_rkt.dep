@@ -1,0 +1,1 @@
+("5.3.2" ("c95d9b45b6be434133656b59a68ed89ddb18bfcf" . "ae70cd6421e15422f7f926ba7111ab38e631f591") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"texpict" #"mrpict.rkt") (collects #"texpict" #"face.rkt") (collects #"texpict" #"utils.rkt"))

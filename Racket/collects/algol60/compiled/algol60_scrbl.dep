@@ -1,0 +1,1 @@
+("5.3.2" ("ad3507fe1c358dd4217660c662886329b0dc2ebf" . "66b3568c5b31163220e424b6eb9704bf0091bcf3") (collects #"algol60" #"algol60.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("73d7ce56c0544262a586e0dd807e616b11d349d0" . "f1e6e8e4c76e44cc071999ae093557560ad152fd") (collects #"racket" #"bool.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"stepper" #"private" #"syntax-property.rkt") (collects #"lazy" #"force.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

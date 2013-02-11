@@ -1,0 +1,1 @@
+("5.3.2" ("0c70f14672bb28d42513649fa48828e2d159e2cd" . "87dfec677448d57987c99acfd40bac25e81b5260") (collects #"lang" #"htdp-beginner.rkt") (collects #"racket" #"base.rkt") (collects #"scribble" #"manual.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("395cc6db6ab6954a46303b1292ef9ec050fc5df2" . "cf6e49c4446bddd4e9824c919f66486e729180ab") (collects #"parser-tools" #"private-lex" #"token-syntax.rkt") (collects #"racket" #"base.rkt") (collects #"parser-tools" #"yacc.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

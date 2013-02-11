@@ -1,0 +1,1 @@
+("5.3.2" ("a28cafb5beee233e11b11ac219d110d1cdc79295" . "948b9d811562e6a3b99b09e58ec8e2a6679cd0c0") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"racket" #"match" #"stxtime.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

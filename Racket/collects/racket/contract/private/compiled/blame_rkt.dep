@@ -1,0 +1,1 @@
+("5.3.2" ("c9a24f563cfdd462ea39076e4a03ad5b65102b0c" . "b0465cfd26108c45e3964d6938f0ec8ca303394a") (collects #"racket" #"base.rkt") (collects #"syntax" #"srcloc.rkt") (collects #"setup" #"path-to-relative.rkt") (collects #"racket" #"pretty.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

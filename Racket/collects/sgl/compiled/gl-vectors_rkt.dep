@@ -1,0 +1,1 @@
+("5.3.2" ("4226b6432688fbd61a3359a81acd3e14abfd1ec2" . "09b2d69332ea2f970f646d420773f498018a5a5f") (collects #"racket" #"base.rkt") (collects #"sgl" #"gl-types.rkt") (collects #"mzlib" #"foreign.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

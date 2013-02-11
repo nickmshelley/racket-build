@@ -1,0 +1,1 @@
+("5.3.2" ("ae68c95fe403b74ccb6abc4c242bb8b24c192b0d" . "1d0321a96b376ac29863e5c2232e5edca11fb63a") (collects #"syntax" #"strip-context.rkt") (collects #"algol60" #"compile.rkt") (collects #"mzlib" #"file.rkt") (collects #"syntax" #"module-reader.rkt") (collects #"algol60" #"parse.rkt") (collects #"algol60" #"simplify.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

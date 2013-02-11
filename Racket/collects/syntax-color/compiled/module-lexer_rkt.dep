@@ -1,0 +1,1 @@
+("5.3.2" ("222cb06e6b532b674e4da441eae88c280ca99803" . "8a055aeede579cd5ef58cc08bc19e2b0fb603e3f") (collects #"syntax-color" #"scheme-lexer.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"port.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

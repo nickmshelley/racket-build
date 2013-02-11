@@ -1,0 +1,1 @@
+("5.3.2" ("8cdf74454a311608f58429112f3f6da46ad0b3db" . "f84e15f2c76590f525e383d9fccf35c071815521") (collects #"compiler" #"embed-sig.rkt") (collects #"racket" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"contract.rkt") (collects #"compiler" #"sig.rkt") (collects #"compiler" #"embed-unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

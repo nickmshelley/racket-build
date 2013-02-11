@@ -1,0 +1,1 @@
+("5.3.2" ("740af38f36ab6fb69519625b003069ba484b5ead" . "879961d2570d9289039a4bb5c564fe8cd55ae8d9") (collects #"syntax" #"strip-context.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

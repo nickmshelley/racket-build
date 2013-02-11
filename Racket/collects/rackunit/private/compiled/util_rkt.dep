@@ -1,0 +1,1 @@
+("5.3.2" ("ec289d1952822157957092436e4ffe04abceb2ba" . "dd89b276965718c30cd239a1376b5c1536ae4330") (collects #"rackunit" #"private" #"test-case.rkt") (collects #"racket" #"base.rkt") (collects #"rackunit" #"private" #"test-suite.rkt") (collects #"rackunit" #"private" #"check.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

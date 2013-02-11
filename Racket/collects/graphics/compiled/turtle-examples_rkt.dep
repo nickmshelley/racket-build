@@ -1,0 +1,1 @@
+("5.3.2" ("11c3a740b78d154f2d94c5c8a8eee324510f4159" . "1c2046be9b88384a01d7004ff71ba45553624d6f") (collects #"graphics" #"turtles.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))

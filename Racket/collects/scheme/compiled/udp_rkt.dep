@@ -1,0 +1,1 @@
+("5.3.2" ("d9f09fbfb1c39268646a92885f0555a227f7bb75" . "1890c03c69cdfa5433b51866b639e2f956533221") (collects #"racket" #"udp.rkt") (collects #"scheme" #"private" #"provider" #"lang.rkt") (collects #"scheme" #"private" #"provider" #"lang" #"reader.rkt"))

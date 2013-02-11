@@ -1,0 +1,1 @@
+("5.3.2" ("c0e5c2d4b96a15748d5ef2ad85af446c7116b5cb" . "963fe410c6ac383193e9aacd109c9f8a05851850") (collects #"mzlib" #"contract.rkt") (collects #"mzlib" #"file.rkt") (collects #"mzlib" #"runtime-path.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"modread.rkt") (collects #"mzlib" #"string.rkt"))

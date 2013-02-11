@@ -1,0 +1,1 @@
+("5.3.2" ("67612f736e048de519391eed7feb2bf81f4c1f8e" . "b366c2ad1134f33488ed3235c59e5d61bea6d04b") (collects #"syntax-color" #"token-tree.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

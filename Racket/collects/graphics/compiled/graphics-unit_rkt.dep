@@ -1,0 +1,1 @@
+("5.3.2" ("044ba3e44edd3e462de5c47379af6a1beabc133d" . "a5b0264a3e00e16b8da2d48cc1493839ee8e9cd0") (collects #"mred" #"mred-sig.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"graphics" #"graphics-posn-less-unit.rkt") (collects #"graphics" #"graphics-sig.rkt") (collects #"mzlib" #"unit.rkt"))

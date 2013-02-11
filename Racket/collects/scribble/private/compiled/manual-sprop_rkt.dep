@@ -1,0 +1,1 @@
+("5.3.2" ("6824223808079f54515e355f0f92d93c1e06320f" . "4e948d6bf5128ad2b65d0084cd1fd1b3cc005ba2") (collects #"scribble" #"latex-properties.rkt") (collects #"scheme" #"base.rkt") (collects #"scribble" #"private" #"on-demand.rkt") (collects #"scribble" #"html-properties.rkt") (collects #"setup" #"main-collects.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

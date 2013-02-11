@@ -1,0 +1,1 @@
+("5.3.2" ("6285ca60c555caadd67175d34a6468af018e9129" . "ca7ac47b4ba449a599a4122da21a16e64b5b3a93") (collects #"racklog" #"lang" #"compiler.rkt") (collects #"datalog" #"parse.rkt") (collects #"syntax" #"module-reader.rkt"))

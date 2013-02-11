@@ -1,0 +1,1 @@
+("5.3.2" ("6d851d622e90ad24e4f7c7c1abba5e4cd49ec71c" . "9fe2678979dd873f436aac890f2192db34033f62") (collects #"racket" #"base.rkt") (collects #"typed-racket" #"optimizer" #"tool" #"mzc.rkt") (collects #"unstable" #"logging.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

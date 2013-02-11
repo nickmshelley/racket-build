@@ -1,0 +1,1 @@
+("5.3.2" ("c6473dd46c34f7e33170b1a0a157c097f064ed75" . "871486aa4193d8d16a3b944984887797ea25754d") (collects #"racket" #"base.rkt") (collects #"mred" #"private" #"kernel.rkt") (collects #"racket" #"draw" #"private" #"font-syms.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

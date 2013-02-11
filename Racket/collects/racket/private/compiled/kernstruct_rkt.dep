@@ -1,0 +1,1 @@
+("5.3.2" ("bfd416c452207bd4a80f62df045a839f53fd7240" . "7df34cb78f5a589a9192113020af9d6355d15486") (collects #"racket" #"private" #"struct-info.rkt") (collects #"racket" #"private" #"define.rkt"))

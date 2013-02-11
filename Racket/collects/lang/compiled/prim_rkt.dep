@@ -1,0 +1,1 @@
+("5.3.2" ("c2c14ca09338382c9ea5f414cc5ba1231dacbe08" . "aaae363465e3f5194f92da1f5efa58c512d3fa0e") (collects #"lang" #"htdp-beginner.rkt") (collects #"lang" #"error.rkt") (collects #"lang" #"private" #"firstorder.rkt") (collects #"stepper" #"private" #"syntax-property.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("141455b16f7941bc750a9d17369cc7560d43c897" . "50ad5a2353d3e128d61370a58e6f87bc99a2b8f4") (collects #"deinprogramm" #"turtle.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

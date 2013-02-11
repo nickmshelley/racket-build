@@ -1,0 +1,1 @@
+("5.3.2" ("5c69f7522a7faa7a318b4357f6ff5b64b4b3d21f" . "a1cd16c7b7b69495115f438eabbc0f06d6a0cb6c") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

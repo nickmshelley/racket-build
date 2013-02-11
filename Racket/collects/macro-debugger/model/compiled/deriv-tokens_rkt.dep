@@ -1,0 +1,1 @@
+("5.3.2" ("3103161fab0a060a1a372738d15d7d19afc61a12" . "d4cdcf01fe3b37731c898d12ab9e5d828659559e") (collects #"racket" #"base.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"macro-debugger" #"model" #"deriv.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

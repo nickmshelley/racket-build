@@ -1,0 +1,1 @@
+("5.3.2" ("c80f3ea905e159d6e976f38248c95a058c191248" . "d993d095b4aed52695c91196fd4bc6c3bcd3090a") (collects #"racket" #"base.rkt") (collects #"typed-racket" #"utils" #"utils.rkt") (collects #"racket" #"dict.rkt") (collects #"typed-racket" #"rep" #"type-rep.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

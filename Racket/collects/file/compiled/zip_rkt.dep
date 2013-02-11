@@ -1,0 +1,1 @@
+("5.3.2" ("4596137f5c827dfdc87f123779f185576ac4484f" . "ebaf64b9a9b2ec83915cf511997d853949c24a90") (collects #"mzlib" #"kw.rkt") (collects #"mzlib" #"deflate.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"file.rkt"))

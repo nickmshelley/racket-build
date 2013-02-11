@@ -1,0 +1,1 @@
+("5.3.2" ("3a0c8f6e20668ff32ccd8a98a111ea257d46e432" . "525313ca3815a56fa7503e957831710fa930aecb") (collects #"algol60" #"prims.rkt") (collects #"algol60" #"runtime.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

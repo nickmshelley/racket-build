@@ -1,0 +1,1 @@
+("5.3.2" ("f94d02701b996727afe21eb70c20afba3b77e979" . "ecd5fbdd7c7d7e50effdcd53fb2783377104b535") (collects #"racket" #"contract.rkt") (collects #"web-server" #"http" #"response.rkt") (collects #"racket" #"base.rkt") (collects #"web-server" #"http.rkt") (collects #"web-server" #"dispatchers" #"dispatch.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("838b0e41cde067d080d519209e30977493273cae" . "fa47588a82d87405a9f1c639e44c1691acbcc662") (collects #"slideshow" #"sig.rkt") (collects #"slideshow" #"viewer.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"slideshow" #"cmdline.rkt") (collects #"mzlib" #"unit.rkt"))

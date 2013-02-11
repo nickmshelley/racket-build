@@ -1,0 +1,1 @@
+("5.3.2" ("458f168c37414cae2ea90bd5c6ec63fce65d7911" . "9224f5aecdd1edbf5389d38682fdb784ce83e009") (collects #"scheme" #"gui" #"dynamic.rkt") (collects #"scheme" #"base.rkt") (collects #"racket" #"sandbox.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

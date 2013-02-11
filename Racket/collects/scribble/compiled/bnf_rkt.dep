@@ -1,0 +1,1 @@
+("5.3.2" ("23026624eb6f19f551f98f549102a0a198e38b6f" . "a4b594378f20fb16d319e1025577c81b7c5e53fe") (collects #"mzlib" #"kw.rkt") (collects #"scribble" #"decode.rkt") (collects #"racket" #"main.rkt") (collects #"scribble" #"struct.rkt") (collects #"scribble" #"core.rkt"))

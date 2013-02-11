@@ -1,0 +1,1 @@
+("5.3.2" ("ec7185962f18b88b6f7e9827d10d47b1e75a08ec" . "ff4aa726e45dd1755e90954a2b158245c797ec3f") (collects #"srfi" #"provider.rkt") (collects #"srfi" #"43" #"vector-lib.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

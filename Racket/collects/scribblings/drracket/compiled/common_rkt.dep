@@ -1,0 +1,1 @@
+("5.3.2" ("fc6ea29535ed27c4cca3294f0b58ba46f4d241d2" . "99dc7a7fb1c2fedae359a1dc1216a80f787a21b4") (collects #"racket" #"base.rkt") (collects #"scribble" #"manual.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

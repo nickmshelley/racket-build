@@ -1,0 +1,1 @@
+("5.3.2" ("db7e9899c4b17d8ad8283dec50e0e9090f4acb19" . "e4fbc32d31de081142f8ba5c8461381335962e67") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"parser-tools" #"private-yacc" #"grammar.rkt"))

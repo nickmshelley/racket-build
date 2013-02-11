@@ -1,0 +1,1 @@
+("5.3.2" ("06912c991ab4f56bbc3b221f9c24ebcdbc2bb7fa" . "1dec3b20e98ce91facb617fd17f18a644858989a") (collects #"racket" #"cmdline.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

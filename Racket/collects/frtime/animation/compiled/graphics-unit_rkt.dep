@@ -1,0 +1,1 @@
+("5.3.2" ("4758bbe18e8b9544af933b2a5f77b47af079d9e6" . "a5fa5c5f2f5e43cb06495916f748183667ab041d") (collects #"racket" #"base.rkt") (collects #"mred" #"mred-sig.rkt") (collects #"frtime" #"animation" #"graphics-posn-less-unit.rkt") (collects #"frtime" #"animation" #"graphics-sig.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

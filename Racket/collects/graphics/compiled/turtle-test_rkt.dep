@@ -1,0 +1,1 @@
+("5.3.2" ("d88ea1b297387ff647397ddd97e8d7250505412d" . "4c61c1b13ed24351484e709a1a643b9988250585") (collects #"mred" #"main.rkt") (collects #"graphics" #"turtle-examples.rkt") (collects #"mzlib" #"math.rkt") (collects #"graphics" #"turtles.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

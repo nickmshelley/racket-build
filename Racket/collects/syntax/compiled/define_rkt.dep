@@ -1,0 +1,1 @@
+("5.3.2" ("8fab32433aea60d7fed85f6344302a7b092cf249" . "209d22956b9f17d30d26e17dfa4d7bacabfb0b63") (collects #"racket" #"base.rkt") (collects #"racket" #"private" #"norm-define.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("da7f8353ae91dd2a9452d2959faea6003147cdb4" . "b5d235642ed646bc9f0e92ec9c842b5e2e065ffb") (collects #"racket" #"base.rkt") (collects #"openssl" #"libcrypto.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"file" #"sha1.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

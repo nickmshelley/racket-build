@@ -1,0 +1,1 @@
+("5.3.2" ("38baebf488695750c77b77cc35949154f9e6c055" . "7e0bf33183d1ca9c57ad01991315b1766e7ee41b") (collects #"scheme" #"base.rkt") (collects #"scheme" #"sandbox.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

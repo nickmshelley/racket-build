@@ -1,0 +1,1 @@
+("5.3.2" ("f15df49ac7f1a3fd0c2973b286e9de220a715591" . "f532729856360937eb5cc65f2b9724561e0cec64") (collects #"racket" #"base.rkt") (collects #"syntax" #"kerncase.rkt"))

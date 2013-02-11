@@ -1,0 +1,1 @@
+("5.3.2" ("b86b14f3328562ade4383037a3efc327da653b20" . "9a2225e438e5c90e5f21a9480cf0a748e8f573b9") (collects #"make" #"make-unit.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"make" #"make-sig.rkt") (collects #"mzlib" #"unit.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

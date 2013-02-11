@@ -1,0 +1,1 @@
+("5.3.2" ("9e5b7580318ff42db7b4882088d584b1a49681c0" . "1249ab1e5f242c55ca62531e22fd35602cfbe165") (collects #"mzlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mzlib" #"plt-match.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

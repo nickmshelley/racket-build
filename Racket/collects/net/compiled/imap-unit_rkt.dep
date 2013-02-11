@@ -1,0 +1,1 @@
+("5.3.2" ("75e98106d98009a13ad3096e375980b976f10c90" . "b348308d326650f3a54cb250fb1fd869add648f6") (collects #"racket" #"base.rkt") (collects #"net" #"imap.rkt") (collects #"racket" #"unit.rkt") (collects #"net" #"imap-sig.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

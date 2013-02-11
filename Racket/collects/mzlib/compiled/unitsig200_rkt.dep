@@ -1,0 +1,1 @@
+("5.3.2" ("b6359c0eca4e2b71310a109cf6401f6503b8e78b" . "afba4381e29be1daa7644dc1e82539b5a715bc60") (collects #"mzlib" #"unit200.rkt") (collects #"mzlib" #"private" #"sigmatch.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"mzlib" #"private" #"sigutil.rkt"))

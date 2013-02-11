@@ -1,0 +1,1 @@
+("5.3.2" ("002ea30855640408ec528cdadbe02ae40688950e" . "f2569252d53fd2f9f10237e14bbcd03583286ff6") (collects #"stepper" #"private" #"shared.rkt") (collects #"mzlib" #"contract.rkt") (collects #"stepper" #"private" #"syntax-property.rkt") (collects #"scheme" #"base.rkt") (collects #"syntax" #"kerncase.rkt"))

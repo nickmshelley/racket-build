@@ -1,0 +1,1 @@
+("5.3.2" ("327e52be95613d05ea3aebfb4496b7b647f2e3b4" . "0eeddef45226c0839cd1b8ffc736242bfe6932d8") (collects #"racket" #"base.rkt") (collects #"framework" #"splash.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

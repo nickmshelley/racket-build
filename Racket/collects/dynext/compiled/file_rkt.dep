@@ -1,0 +1,1 @@
+("5.3.2" ("176ac51154f46c5b381d725ef875d629caa6c8d6" . "c8108cc48843f7ce590b9a5601ecd4eb4a2a3430") (collects #"dynext" #"file-sig.rkt") (collects #"dynext" #"file-unit.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"unit.rkt"))

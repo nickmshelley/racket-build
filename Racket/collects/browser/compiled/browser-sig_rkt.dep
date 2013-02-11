@@ -1,0 +1,1 @@
+("5.3.2" ("73035d5ca1db16d8aa09057b7b07d8d92e9da6e6" . "b642eef79fa0017e8f840dc4ed810a1c65d81a0c") (collects #"browser" #"private" #"sig.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"unit.rkt"))

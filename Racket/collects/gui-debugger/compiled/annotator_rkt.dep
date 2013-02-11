@@ -1,0 +1,1 @@
+("5.3.2" ("22397c6dd89e2215172234e8b9002771869ee01f" . "7738003686dfba59daadcc62b556e4d862ff8d4e") (collects #"mzlib" #"etc.rkt") (collects #"scheme" #"base.rkt") (collects #"srfi" #"1" #"search.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"gui-debugger" #"marks.rkt"))

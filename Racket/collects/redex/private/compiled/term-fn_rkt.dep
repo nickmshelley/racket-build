@@ -1,0 +1,1 @@
+("5.3.2" ("3f73f7dc5f3247ac7cce5e9d9896f56183a96a93" . "81d9a05047f83031e80f1f8d270e1671f094111c") (collects #"racket" #"base.rkt") (collects #"redex" #"private" #"defined-checks.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

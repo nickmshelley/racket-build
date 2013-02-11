@@ -1,0 +1,1 @@
+("5.3.2" ("6b3624b3e54115daf9e0977728e202d6d833cf93" . "d301a055bb1b7e422e5f11ac36c3e691cd4edcd2") (collects #"racket" #"future.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribble" #"doclang.rkt") (collects #"future-visualizer" #"trace.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

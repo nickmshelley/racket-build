@@ -1,0 +1,1 @@
+("5.3.2" ("47ed85e6568eb3940217fd0eb4e2af9c921c0919" . "0fff3f3d8c4da855b090baf77a58cad3c03f59be") (collects #"racket" #"base.rkt") (collects #"htdp" #"guess-gui.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

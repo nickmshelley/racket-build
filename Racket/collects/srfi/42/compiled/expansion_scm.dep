@@ -1,0 +1,1 @@
+("5.3.2" ("336b7f384c948fc528170f2dfba11fcf5f7e0760" . "23efef6d76d3758a796237412f13e7ebcd93d99f") (collects #"srfi" #"42" #"loops.scm") (collects #"srfi" #"42" #"generator-struct.scm") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"main.rkt") (collects #"syntax" #"stx.rkt") (collects #"srfi" #"42" #"generator-definitions.scm"))

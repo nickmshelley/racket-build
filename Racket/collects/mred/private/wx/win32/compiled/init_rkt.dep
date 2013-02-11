@@ -1,0 +1,1 @@
+("5.3.2" ("6a588287f23a7d52b8f41f726370a6ab9acd0de4" . "00a692b01f5d542be360ad233e70a2432687d1d6") (collects #"mred" #"private" #"wx" #"win32" #"queue.rkt") (collects #"racket" #"base.rkt") (collects #"mred" #"private" #"wx" #"win32" #"wndclass.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

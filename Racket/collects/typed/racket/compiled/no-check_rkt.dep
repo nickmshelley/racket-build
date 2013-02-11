@@ -1,0 +1,1 @@
+("5.3.2" ("b6f1c906c0f3b40885c5b54c5cd942448af001bd" . "b85bda0de56c0cdc72cb329c1f046de23219b50c") (collects #"typed" #"racket.rkt") (collects #"racket" #"require.rkt") (collects #"typed-racket" #"minimal.rkt") (collects #"typed-scheme" #"no-check.rkt") (collects #"typed-racket" #"minimal" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.2" ("3888f61a07eb80b33c15d4615a3af1048148dce2" . "42187ca7fcd10262c841bd499df49becba2f2f0e") (collects #"dynext" #"compile-unit.rkt") (collects #"dynext" #"file-unit.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"dynext" #"link-unit.rkt"))

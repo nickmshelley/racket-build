@@ -1,0 +1,1 @@
+("5.3.2" ("e887869f1319cf3346463f1d5fb03ca3d16bfa39" . "ad3322e7d22cf4a0351e3345f340e07f2d9e86b0") (collects #"srfi" #"9.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"1.rkt") (collects #"srfi" #"57" #"registry.rkt"))
